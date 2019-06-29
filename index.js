@@ -1,1 +1,0 @@
-../../../build/bilive/plugins/C_fateadm/index.js
